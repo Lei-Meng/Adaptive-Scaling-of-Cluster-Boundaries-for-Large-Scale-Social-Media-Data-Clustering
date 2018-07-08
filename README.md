@@ -15,10 +15,17 @@ pages={1-7},
 year={2013}}
 
 @ARTICLE{7342962, 
-author={L. Meng and A. H. Tan and D. C. Wunsch},\n
+
+author={L. Meng and A. H. Tan and D. C. Wunsch},
+
 title={Adaptive Scaling of Cluster Boundaries for Large-Scale Social Media Data Clustering}, 
+
 journal={IEEE Transactions on Neural Networks and Learning Systems}, 
+
 volume={27}, 
+
 number={12}, 
+
 year={2016}, 
+
 pages={2656-2669}}
